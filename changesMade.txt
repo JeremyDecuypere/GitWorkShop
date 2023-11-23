@@ -1,0 +1,6 @@
+data class Test (
+	var lesson)
+{
+
+}
+
